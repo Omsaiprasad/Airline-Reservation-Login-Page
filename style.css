@@ -1,0 +1,133 @@
+h1 {
+    font-size: 45px;
+    align-items: center;
+    text-align: center;
+    color: aquamarine;
+    text-decoration-line: underline;
+    text-decoration-color: aquamarine;
+}
+
+.Loginpage {
+    height: auto;
+    width: 240px;
+    padding: 0px;
+    color: white;
+}
+
+.LoginForm {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto auto;
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px #000;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 240px;
+    height: 500px;
+}
+
+.Avatar {
+    height: 100px;
+    width: 100px;
+    padding: 0;
+
+
+}
+
+h2 {
+    width: fit-content;
+    height: fit-content;
+    font-size: 20px;
+    margin-left: 18%;
+
+}
+
+.Loginpage p {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.Loginpage input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.Loginpage input[type="text"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    border-end-end-radius: 20px;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+
+.Loginpage input[type="Password"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    border-end-end-radius: 20px;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+
+.Loginpage input[type="checkbox"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    height: 15px;
+    width: 15px;
+    color: #fff;
+    font-family: 'Times New Roman';
+}
+
+.Loginpage input[type="checkbox"],
+input [type=id] {
+    font-size: 16px;
+
+}
+
+.Loginpage input[type="submit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background: blue;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    font-family: 'Times New Roman';
+}
+
+.Loginpage input[type="submit"]:hover {
+    cursor: pointer;
+    background: blue;
+    color: #000;
+}
+
+.Loginpage a {
+
+    font-size: 18px;
+    line-height: 20px;
+    color: darkblue;
+    text-decoration: underline;
+}
+
+body {
+    text-decoration-color: lightseagreen;
+    background-image: url("C:/Users/dell/Downloads/4866050.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+    font-size: 18px;
+}
