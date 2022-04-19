@@ -25,14 +25,17 @@ h1 {
     bottom: 0;
     left: 0;
     right: 0;
-    width: 240px;
-    height: 500px;
+    width: 220px;
+    height: 400px;
 }
 
 .Avatar {
     height: 100px;
     width: 100px;
-    padding: 0;
+    border-radius: 50%;
+    position: absolute;
+    top:-50px;
+    left:calc(50% - 50px);
 
 
 }
